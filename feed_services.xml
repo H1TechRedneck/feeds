@@ -25,7 +25,7 @@
         <rating>5</rating>
         <worker_type>physical</worker_type>
         <product_type>Врачи>Кардиологи</product_type>
-        <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/</image_link>
+        <image_link>htt://merriam-webster.com/asse/</image_link>
     </item>
 	<item>
         <id>1</id>
@@ -52,7 +52,6 @@
         <rating>5</rating>
         <worker_type>physical</worker_type>
         <product_type>Врачи>Кардиологи </product_type>
-        <image_link>http://example.com/12345678-1.jpg</image_link>
     </item>
 	<item>
         <id>2</id>
